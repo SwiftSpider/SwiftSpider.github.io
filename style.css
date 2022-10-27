@@ -1,0 +1,23 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.nav {
+  background-color: rgb(120, 120, 120);
+}
+
+.navb {
+  background-color: rgb(70, 70, 70);
+  color: white;
+  font-family: sans-serif;
+  text-decoration: inherit;
+  font-style: bold;
+  padding: 7px 7px 7px 7px;
+  vertical-align:middle;
+  
+}
+
+#logo {
+  vertical-align: middle;
+}
