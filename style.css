@@ -22,3 +22,44 @@ html, body {
 #logo {
   vertical-align: middle;
 }
+
+.grandh {
+  font-size: xx-large;
+}
+
+.head {
+  font-size: x-large;
+}
+
+.s-head {
+  font-size: x-large;
+}
+
+.code {
+  font-size: large;
+}
+
+.text {
+  font-size: medium;
+}
+
+.c-out {
+  font-size: large;
+}
+
+.comment {
+  font-size: medium;
+  color: darkgreen;
+}
+
+h6 {
+  font-size: smaller;
+}
+
+p {
+  font-size: x-small;
+}
+
+b {
+  font-weight:bold;
+}
