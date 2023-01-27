@@ -1,0 +1,46 @@
+.header {
+    color: white;
+    font-style: bold;
+    font-family: sans-serif;
+    text-decoration: inherit;
+}
+
+.navb {
+    background-color: rgb(49,49,49);
+    color: white;
+    font-family: sans-serif;
+    text-decoration: inherit;
+    font-style: bold;
+    padding: 7px 7px 7px 7px;
+    vertical-align:middle;
+    border-radius: 15px;
+}
+
+.navcontext {
+    color: white;
+    font-family: sans-serif;
+    text-decoration: inherit;
+    font-style: bold;
+    text-align: right;
+}
+
+body {
+    background-color: rgb(49, 49, 49);
+}
+
+h5 {
+    color: white;
+    font-family: sans-serif;
+}
+
+.cashappuser {
+    color: limegreen;
+    font-style: bold;
+    font-family: sans-serif;
+}
+
+.cashappbutton {
+    color: white;
+    background-color: rgb(49,49,49);
+    font-style: bold;
+}
