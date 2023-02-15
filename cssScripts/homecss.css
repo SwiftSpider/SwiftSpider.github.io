@@ -44,3 +44,7 @@ h5 {
     background-color: rgb(49,49,49);
     font-style: bold;
 }
+
+a {
+    color: cyan;
+}
