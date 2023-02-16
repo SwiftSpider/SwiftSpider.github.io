@@ -1,10 +1,3 @@
-.header {
-    color: white;
-    font-style: bold;
-    font-family: sans-serif;
-    text-decoration: inherit;
-}
-
 .navb {
     background-color: rgb(49,49,49);
     color: white;
@@ -16,21 +9,26 @@
     border-radius: 15px;
 }
 
-.navcontext {
-    color: white;
-    font-family: sans-serif;
-    text-decoration: inherit;
-    font-style: bold;
-    text-align: right;
+.alignCenter {
+    text-align:center;
 }
 
 body {
     background-color: rgb(49, 49, 49);
 }
 
+h2 {
+    color: white;
+    font-family: sans-serif;
+    font-size:larger;
+    text-decoration: inherit;
+    font-style: bold;
+}
+
 h5 {
     color: white;
     font-family: sans-serif;
+    font-size:larger;
 }
 
 .cashappuser {
